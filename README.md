@@ -1,6 +1,6 @@
 # Ders Kayıt Sistemi (Course Registration System)
  
-Bu Java tabanlı program, bir ders kayıt sistemi simülasyonunu içerir. Bu sistem iki tür kullanıcıya sahiptir: Öğrenci ve Danışman. Öğrencilerin ders kaydı eklemesine, ders kaydı silmesine ve danışmana göndermesine olanak sağlar. Aynı zamanda danışmanlar, onay bekleyen öğrenci kayıtlarını görüntüleyebilir, bunları onaylayabilir ve onaylanmış kayıtları CSV dosyası olarak dışarı aktarabilir.
+Bu Java tabanlı program, bir ders kayıt sistemi simülasyonunu içerir. Bu sistem iki tür kullanıcıya sahiptir: Öğrenci ve Danışman. Öğrencilerin ders kaydı eklemesine, ders kaydı silmesine ve danışmana göndermesine olanak sağlar. Aynı zamanda danışman, onay bekleyen öğrenci kayıtlarını görüntüleyebilir, bunları onaylayabilir ve onaylanmış kayıtları CSV dosyası olarak dışarı aktarabilir.
 
 
 ## Kullanıcılar
@@ -32,6 +32,7 @@ Program başladığında kullanıcıları tanımak için bir giriş ekranı suna
   
 - Danışman onaylamayı tamamladığında öğrenci başka işlemler yapamaz.
 
+- Sistemi kullanan birden fazla öğrenci, ancak bir tane danışman var
 
 ## Katkıda Bulunma
 
