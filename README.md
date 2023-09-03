@@ -33,4 +33,14 @@ Program başladığında kullanıcıları tanımak için bir giriş ekranı suna
 - Danışman onaylamayı tamamladığında öğrenci başka işlemler yapamaz.
 
 
+## Katkıda Bulunma
+
+Projeye star vermek için aşağıdaki adımları takip edebilirsiniz:
+1. Projenin GitHub sayfasına gidin.
+2. Sayfanın sağ üst köşesinde bulunan "Star" düğmesine tıklayın.
+3. Eğer oturum açmadıysanız, GitHub hesabınızla oturum açmanız istenecektir. Oturum açın veya yeni bir GitHub hesabı oluşturun.
+4. "Star" düğmesine tekrar tıklayarak projeye star verebilirsiniz.
+
+
+
 
